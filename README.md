@@ -11,3 +11,4 @@ Built with **Node.js** and **Express**, deployed on **Render**.
    ```bash
    git clone https://github.com/faydmuhammed/student-api-fayd.git
    cd student-api-fayd
+   live api url : https://student-api-fayd-1.onrender.com
